@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./github-banner.png" width="100%" />
+</div>
+
 # 💫 About Me:
 💻 Currently focused on Frontend Web Development<br>⚛️ Working with React.js & Next.js<br>🟦 Using TypeScript to write safer and more maintainable code<br>🎨 Building responsive interfaces with CSS & Tailwind CSS<br>🧠 Strengthening my JavaScript fundamentals and problem-solving skills<br>🔄 Practicing API integration, data fetching, state management, and reusable components<br>🗄️ Exploring JSON Server, REST APIs, databases, and SQL<br>🛠️ Using Git & GitHub for version control and project management<br>📚 Continuously learning by building projects and solving programming challenges
 
