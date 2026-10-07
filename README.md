@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./github-banner.png" width="100%" />
+  <img src="./ChatGPT Image Oct 7, 2026, 11_54_17 PM.png" width="100%" />
 </div>
 
 # 💫 About Me:
